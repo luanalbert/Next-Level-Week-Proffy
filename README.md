@@ -8,5 +8,4 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [ ] "Up to two years in 2 months"
 - [ ] "The extra mile"
 
-**This README.md is still under development.**
 <p align=center>This README.md is still under development.</p>
