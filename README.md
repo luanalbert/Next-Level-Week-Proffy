@@ -15,10 +15,10 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 
 <h3 align="center">Preview 💻📱</h3>
 
-<h4 align="center">Desktop 💻
-
-![indexdesktop](https://user-images.githubusercontent.com/59374587/89591917-c478e880-d821-11ea-84d6-591b6e94d8a1.png)
-</h4>
+<h4 align="center">Desktop 💻</h4>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/59374587/89591917-c478e880-d821-11ea-84d6-591b6e94d8a1.png">
+</p>
 
 ---
 
