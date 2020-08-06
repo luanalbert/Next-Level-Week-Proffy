@@ -4,8 +4,8 @@
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Accelerating Your Evolution"
 - [x] "Looking at opportunities"
-- [ ] "The Stack's Choice"
-- [ ] "Up to two years in 2 months"
+- [x] "The Stack's Choice"
+- [x] "Up to two years in 2 months"
 - [ ] "The extra mile"
 
 <p align=center>This README.md is still under development.</p>
