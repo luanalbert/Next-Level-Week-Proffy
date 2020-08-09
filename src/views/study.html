@@ -63,6 +63,10 @@
         </header>
         <main>
 
+            {% if proffys == "" %}
+                <p class="no-results">Nenhum professor encontrado com sua pesquisa.</p>
+            {% else %}
+
             {%for proffy in proffys %}
             <article class="teacher-item">
                 <header>
@@ -83,7 +87,10 @@
                     </a>
                   </footer>
             </article>
-            {%endfor%}
+            {% endfor %}
+            {% endif%}
+
+
         </main>
     </div>
 </body>
