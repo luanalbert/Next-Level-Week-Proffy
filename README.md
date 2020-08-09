@@ -7,7 +7,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - ✅  "Looking at opportunities" <br/>
 - ✅  "The Stack's Choice" <br/>
 - ✅  "Up to two years in 2 months" <br/>
-- 🕖  "The extra mile" <br/>
+- ✅  "The extra mile" <br/>
 
 ---
 
@@ -20,7 +20,6 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 
 ---
 
-<h4 align="center">Mobile 📱</h4>
 <h4 align="center">Mobile 📱</h4>
 <p align="center">
   <img width="360" height="780" src="https://user-images.githubusercontent.com/59374587/89591927-c8a50600-d821-11ea-8e29-7a37f6ead543.png">
